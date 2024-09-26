@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TamyCode&label=Profile%20views&color=0e75b6&style=flat" alt="TamyCode" /> </p>
 
 -🚀 Apasionada por la tecnología y siempre en busca de nuevos desafíos.
+
 -💡 Interesada en colaborar en proyectos innovadores y creativos.
+
 -📚 Actualmente profundizando mis conocimientos en desarrollo de aplicaciones y programacion.
+
 -🌐 Conéctate conmigo en LinkedIn para conocer más sobre mi experiencia. **www.linkedin.com/in/tamara-garcia-de-la-cruz-60472b1b7**
 
 <h3 align="left">Contactame:</h3>
